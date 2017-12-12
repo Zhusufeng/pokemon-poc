@@ -1,2 +1,5 @@
 # Node modules
 node_modules
+
+# Bundles
+bin/app.bundle.js
