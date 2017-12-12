@@ -4,7 +4,7 @@
   "description": "Practice with AngularJS and Webpack",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server",
+    "start": "concurrently 'lite-server 'webpack --watch'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lisa Gee (Tutorial by Sergio Zamarro)",
