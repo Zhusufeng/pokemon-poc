@@ -4,6 +4,7 @@
   "description": "Practice with AngularJS and Webpack",
   "main": "index.js",
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lisa Gee (Tutorial by Sergio Zamarro)",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
-    "babel-preset-es2015": "^6.24.1"
+    "babel-preset-es2015": "^6.24.1",
+    "lite-server": "^2.3.0"
   }
 }
