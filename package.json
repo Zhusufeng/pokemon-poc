@@ -12,6 +12,7 @@
   "dependencies": {
     "angular": "^1.6.7",
     "angular-ui-router": "^0.4.3",
+    "concurrently": "^3.5.1",
     "webpack": "^3.10.0"
   },
   "devDependencies": {
