@@ -1,9 +1,9 @@
-#pokemon-poc
+# pokemon-poc
 
-##Information
+## Information
 This repo follows a tutorial by [Sergio Zamarro](https://github.com/zamarrowski/pokemon-poc) based on a tutorial he wrote on [Medium](https://medium.com/@zamarrowski/angular-1-x-component-based-application-with-webpack-and-es6-dfab450f2df4)
 
-##Changes
+## Changes
 Here were the changes I needed to make in order for my code to work
 
 * In webpack.config.js: 
